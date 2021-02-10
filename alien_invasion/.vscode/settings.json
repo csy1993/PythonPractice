@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe",
+    "fileheader.Author": "csy",
+    "fileheader.LastModifiedBy": "csy",
+    "fileheader.tpl": "'''\\n* @Author: {author} \\n* @Date: {createTime} \\n* @Last Modified by:   {lastModifiedBy} \\n* @Last Modified time: {updateTime} \\n'''\\n",
+    "python.autoComplete.addBrackets": true,
+    // "python.pythonPath": "C:\\Program Files\\Python37\\python.exe",
+    // "python.linting.pylintArgs": [ "----extension-pkg-whitelist=1xml" ],
+    "python.linting.enabled": true, // 默认对Python文件进行静态检查
+    "python.linting.lintOnSave": true, // 默认在Python文件保存时进行静态检查
+    "python.linting.pylintEnabled": true, // 默认使用pylint对Python文件进行静态检查
+    "python.linting.pylintUseMinimalCheckers": true, // 静态检查时是否使用pylint的最小规则集
+}
